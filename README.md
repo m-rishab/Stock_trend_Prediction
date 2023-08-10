@@ -17,7 +17,7 @@ The motivation behind stock trend prediction is rooted in the desire to make inf
 
 # DATASET 🗄️
 
-< a href = "https://finance.yahoo.com/quote/AAPL?p=AAPL&.tsrc=fin-srch" > Yahoo Finance </a>
+<a href = "https://finance.yahoo.com/quote/AAPL?p=AAPL&.tsrc=fin-srch">Yahoo Finance</a>
 
 
 
