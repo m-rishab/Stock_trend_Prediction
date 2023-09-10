@@ -22,11 +22,10 @@ The motivation behind stock trend prediction is rooted in the desire to make inf
 ## Technologies Used
 
 - ![Python](https://img.shields.io/badge/Python%2B-blue) : The primary programming language used for data analysis and machine learning.
-- : The primary programming language used for data analysis and machine learning., **TensorFlow**, **Keras**: Libraries for building and training machine learning models.
-- **Pandas**, **NumPy**: For data manipulation and analysis.
-- **Matplotlib**, **Plotly**: For data visualization.
-- **Flask**: For creating a web-based interface (optional).
-- **SQL (or NoSQL) Database**: For storing and managing historical data (optional).
+- ![Python](https://img.shields.io/badge/Sickit-Learn%2B-blue), ![Python](https://img.shields.io/badge/Tenserflow%2B-blue), ![Python](https://img.shields.io/badge/Keras%2B-blue): Libraries for building and training machine learning models.
+-![Python](https://img.shields.io/badge/Numpy%2B-blue),![Python](https://img.shields.io/badge/Pandas%2B-blue): For data manipulation and analysis.
+-![Python](https://img.shields.io/badge/Matplotlib%2B-blue), ![Python](https://img.shields.io/badge/Plotly%2B-blue): For data visualization.
+- ![Python](https://img.shields.io/badge/Flask%2B-blue): For creating a web-based interface (optional).
 
 
 
