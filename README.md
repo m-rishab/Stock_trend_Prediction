@@ -1,7 +1,7 @@
 
  # DISCLAIMER ⚠️
  
- Stock trend prediction is the practice of using various analytical techniques and models to forecast the future movements of stock prices or market indices. It involves analyzing historical data, market indicators, and other relevant factors to make educated guesses about the potential direction and magnitude of price changes in the stock market. While stock trend prediction does not guarantee accurate forecasts, it aims to provide investors and traders with insights that can inform their investment decisions.
+The Stock Trend Prediction project is an intelligent financial forecasting system designed to predict the future trends of stock prices. Leveraging machine learning techniques, historical stock market data, and technical indicators, this project aims to assist investors, traders, and financial analysts in making informed decisions.
 
 #  MOTIVATION 💪
 
@@ -18,6 +18,15 @@ The motivation behind stock trend prediction is rooted in the desire to make inf
 # DATASET 🗄️
 
 <a href = "https://finance.yahoo.com/quote/AAPL?p=AAPL&.tsrc=fin-srch">Yahoo Finance</a>
+
+## Technologies Used
+
+- ![Python Logo](https://www.python.org/static/img/python-logo.png): The primary programming language used for data analysis and machine learning.
+- **Scikit-Learn**, **TensorFlow**, **Keras**: Libraries for building and training machine learning models.
+- **Pandas**, **NumPy**: For data manipulation and analysis.
+- **Matplotlib**, **Plotly**: For data visualization.
+- **Flask**: For creating a web-based interface (optional).
+- **SQL (or NoSQL) Database**: For storing and managing historical data (optional).
 
 
 
