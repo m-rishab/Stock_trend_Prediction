@@ -1,7 +1,7 @@
 
  # DISCLAIMER ⚠️
  
-The Stock Trend Prediction project is an intelligent financial forecasting system designed to predict the future trends of stock prices. Leveraging machine learning techniques, historical stock market data, and technical indicators, this project aims to assist investors, traders, and financial analysts in making informed decisions.
+This project is an intelligent financial forecasting system designed to predict the future trends of stock prices. Leveraging machine learning techniques, historical stock market data, and technical indicators, this project aims to assist investors, traders, and financial analysts in making informed decisions.
 
 #  MOTIVATION 💪
 
