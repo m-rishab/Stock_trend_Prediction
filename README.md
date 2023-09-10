@@ -22,7 +22,7 @@ The motivation behind stock trend prediction is rooted in the desire to make inf
 ## Technologies Used
 
 - <img src="https://www.python.org/static/img/python-logo.png" width="80"> : The primary programming language used for data analysis and machine learning.
-- **Scikit-Learn**, **TensorFlow**, **Keras**: Libraries for building and training machine learning models.
+- <img src="https://www.tenserflow.org/static/img/tenserflow-logo.png" width="80"> : The primary programming language used for data analysis and machine learning., **TensorFlow**, **Keras**: Libraries for building and training machine learning models.
 - **Pandas**, **NumPy**: For data manipulation and analysis.
 - **Matplotlib**, **Plotly**: For data visualization.
 - **Flask**: For creating a web-based interface (optional).
